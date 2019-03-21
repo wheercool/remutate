@@ -1,0 +1,24 @@
+{
+  "name": "remutate",
+  "version": "1.0.0",
+  "description": "Library for type safe mutations of immutable objects in typescript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wheercool/remutate.git"
+  },
+  "keywords": [
+    "immutable",
+    "typescript",
+    "spread"
+  ],
+  "author": "Aleksandr Rudy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wheercool/remutate/issues"
+  },
+  "homepage": "https://github.com/wheercool/remutate#readme"
+}
